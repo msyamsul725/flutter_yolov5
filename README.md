@@ -1,7 +1,7 @@
-[![Flutter](https://github.com/denyocrworld/capekngoding/actions/workflows/flutter.yml/badge.svg)](https://github.com/denyocrworld/capekngoding/actions/workflows/flutter.yml)
+<!-- [![Flutter](https://github.com/denyocrworld/capekngoding/actions/workflows/flutter.yml/badge.svg)](https://github.com/denyocrworld/capekngoding/actions/workflows/flutter.yml)
 
-# HyperUI by DenyOcr
-
+# HyperUI by DenyOcr -->
+<!-- 
 Tutorial membuat Project Baru dengan Hyper UI:
 ```
 mkdir demo
@@ -39,4 +39,4 @@ Medium:<br>
 https://medium.com/@denyocr.world<br>
 
 Instagram:<br>
-https://www.instagram.com/@deniansyah93<br>
+https://www.instagram.com/@deniansyah93<br> -->
